@@ -1,0 +1,195 @@
+Model number : 1
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.8551019772691889 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8582811770200841 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8589537599252686 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8603767709792932 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8633535730966838 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8638237583683637 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8638237583683637 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8638237583683637 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8638237583683637 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 : Best HP (based on val_accuracy) : (0.4, 0.6000000000000001)
+cuda:0
+Model number : 2
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.7354320411022887 | MAX_ACCURACY for real: 0.6183843612670898 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0013408430254037403 | MIN_loss for real : 0.01018309227935451
+1 => MAX_ACCURACY for synth : 0.7354320411022887 | MAX_ACCURACY for real: 0.621169924736023 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013408430254037403 | MIN_loss for real : 0.01018309227935451
+1 => MAX_ACCURACY for synth : 0.7354320411022887 | MAX_ACCURACY for real: 0.621169924736023 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013408430254037403 | MIN_loss for real : 0.01018309227935451
+1 => MAX_ACCURACY for synth : 0.7663397166433131 | MAX_ACCURACY for real: 0.621169924736023 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013408430254037403 | MIN_loss for real : 0.01018309227935451
+1 => MAX_ACCURACY for synth : 0.7663397166433131 | MAX_ACCURACY for real: 0.621169924736023 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013408430254037403 | MIN_loss for real : 0.01018309227935451
+1 => MAX_ACCURACY for synth : 0.7663397166433131 | MAX_ACCURACY for real: 0.621169924736023 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013408430254037403 | MIN_loss for real : 0.01018309227935451
+1 => MAX_ACCURACY for synth : 0.7796512533084229 | MAX_ACCURACY for real: 0.621169924736023 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013408430254037403 | MIN_loss for real : 0.01018309227935451
+1 => MAX_ACCURACY for synth : 0.7796512533084229 | MAX_ACCURACY for real: 0.621169924736023 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013408430254037403 | MIN_loss for real : 0.01018309227935451
+1 => MAX_ACCURACY for synth : 0.7796512533084229 | MAX_ACCURACY for real: 0.621169924736023 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013408430254037403 | MIN_loss for real : 0.01018309227935451
+1 : Best HP (based on val_accuracy) : (0.6000000000000001, 0.2)
+cuda:0
+Model number : 3
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.7695438268721781 | MAX_ACCURACY for real: 0.6142061352729797 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001138019664034527 | MIN_loss for real : 0.016024788442096337
+1 => MAX_ACCURACY for synth : 0.7701541335824381 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.001138019664034527 | MIN_loss for real : 0.016024788442096337
+1 => MAX_ACCURACY for synth : 0.7724739218433754 | MAX_ACCURACY for real: 0.6169916391372681 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001138019664034527 | MIN_loss for real : 0.016024788442096337
+1 => MAX_ACCURACY for synth : 0.7828055425813483 | MAX_ACCURACY for real: 0.6169916391372681 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001138019664034527 | MIN_loss for real : 0.016024788442096337
+1 => MAX_ACCURACY for synth : 0.7831044683169859 | MAX_ACCURACY for real: 0.6169916391372681 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001138019664034527 | MIN_loss for real : 0.016024788442096337
+1 => MAX_ACCURACY for synth : 0.7849042503503036 | MAX_ACCURACY for real: 0.6169916391372681 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001138019664034527 | MIN_loss for real : 0.016024788442096337
+1 => MAX_ACCURACY for synth : 0.807308111474389 | MAX_ACCURACY for real: 0.6169916391372681 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001138019664034527 | MIN_loss for real : 0.016024788442096337
+1 => MAX_ACCURACY for synth : 0.807308111474389 | MAX_ACCURACY for real: 0.6169916391372681 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001138019664034527 | MIN_loss for real : 0.016024788442096337
+1 => MAX_ACCURACY for synth : 0.807308111474389 | MAX_ACCURACY for real: 0.6169916391372681 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001138019664034527 | MIN_loss for real : 0.016024788442096337
+1 : Best HP (based on val_accuracy) : (0.6000000000000001, 0.2)
+cuda:0
+Model number : 4
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.7881768643935856 | MAX_ACCURACY for real: 0.6072423458099365 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014758742173795 | MIN_loss for real : 0.01657301469765666
+1 => MAX_ACCURACY for synth : 0.789721314027713 | MAX_ACCURACY for real: 0.6072423458099365 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014758742173795 | MIN_loss for real : 0.01657301469765666
+1 => MAX_ACCURACY for synth : 0.7924614666043904 | MAX_ACCURACY for real: 0.6072423458099365 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014758742173795 | MIN_loss for real : 0.01657301469765666
+1 => MAX_ACCURACY for synth : 0.7974030826716487 | MAX_ACCURACY for real: 0.6072423458099365 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014758742173795 | MIN_loss for real : 0.01657301469765666
+1 => MAX_ACCURACY for synth : 0.7987108827650631 | MAX_ACCURACY for real: 0.6072423458099365 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014758742173795 | MIN_loss for real : 0.01657301469765666
+1 => MAX_ACCURACY for synth : 0.8008687529191967 | MAX_ACCURACY for real: 0.6072423458099365 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014758742173795 | MIN_loss for real : 0.01657301469765666
+1 => MAX_ACCURACY for synth : 0.8225003892262183 | MAX_ACCURACY for real: 0.6072423458099365 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014758742173795 | MIN_loss for real : 0.01657301469765666
+1 => MAX_ACCURACY for synth : 0.8225003892262183 | MAX_ACCURACY for real: 0.6072423458099365 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014758742173795 | MIN_loss for real : 0.01657301469765666
+1 => MAX_ACCURACY for synth : 0.8225003892262183 | MAX_ACCURACY for real: 0.6072423458099365 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014758742173795 | MIN_loss for real : 0.01657301469765666
+1 : Best HP (based on val_accuracy) : (0.6000000000000001, 0.2)
+cuda:0
+Model number : 5
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.796117079246458 | MAX_ACCURACY for real: 0.6337047219276428 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.00120393816053823 | MIN_loss for real : 0.01984203857963796
+1 => MAX_ACCURACY for synth : 0.7969515802584463 | MAX_ACCURACY for real: 0.6337047219276428 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.00120393816053823 | MIN_loss for real : 0.01984203857963796
+1 => MAX_ACCURACY for synth : 0.7984430951268877 | MAX_ACCURACY for real: 0.6350975036621094 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.00120393816053823 | MIN_loss for real : 0.01984203857963796
+1 => MAX_ACCURACY for synth : 0.8020675696714931 | MAX_ACCURACY for real: 0.6350975036621094 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.00120393816053823 | MIN_loss for real : 0.01984203857963796
+1 => MAX_ACCURACY for synth : 0.8027027868597228 | MAX_ACCURACY for real: 0.6350975036621094 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.00120393816053823 | MIN_loss for real : 0.01984203857963796
+1 => MAX_ACCURACY for synth : 0.8037926202709015 | MAX_ACCURACY for real: 0.6350975036621094 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.00120393816053823 | MIN_loss for real : 0.01984203857963796
+1 => MAX_ACCURACY for synth : 0.8040884321967928 | MAX_ACCURACY for real: 0.6350975036621094 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.00120393816053823 | MIN_loss for real : 0.01984203857963796
+1 => MAX_ACCURACY for synth : 0.8040884321967928 | MAX_ACCURACY for real: 0.6350975036621094 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.00120393816053823 | MIN_loss for real : 0.01984203857963796
+1 => MAX_ACCURACY for synth : 0.8040884321967928 | MAX_ACCURACY for real: 0.6350975036621094 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.00120393816053823 | MIN_loss for real : 0.01984203857963796
+1 : Best HP (based on val_accuracy) : (0.6000000000000001, 0.2)
+cuda:0
+Model number : 6
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.7760112097150864 | MAX_ACCURACY for real: 0.6295264363288879 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001546692845827203 | MIN_loss for real : 0.022265308746720423
+1 => MAX_ACCURACY for synth : 0.7764969640354974 | MAX_ACCURACY for real: 0.6295264363288879 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001546692845827203 | MIN_loss for real : 0.022265308746720423
+1 => MAX_ACCURACY for synth : 0.7764969640354974 | MAX_ACCURACY for real: 0.6295264363288879 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001546692845827203 | MIN_loss for real : 0.022265308746720423
+1 => MAX_ACCURACY for synth : 0.796450256889304 | MAX_ACCURACY for real: 0.6295264363288879 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001546692845827203 | MIN_loss for real : 0.022265308746720423
+1 => MAX_ACCURACY for synth : 0.7966744511910322 | MAX_ACCURACY for real: 0.6295264363288879 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001546692845827203 | MIN_loss for real : 0.022265308746720423
+1 => MAX_ACCURACY for synth : 0.7966744511910322 | MAX_ACCURACY for real: 0.6295264363288879 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001546692845827203 | MIN_loss for real : 0.022265308746720423
+1 => MAX_ACCURACY for synth : 0.8232445897555659 | MAX_ACCURACY for real: 0.6295264363288879 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001546692845827203 | MIN_loss for real : 0.022265308746720423
+1 => MAX_ACCURACY for synth : 0.8232445897555659 | MAX_ACCURACY for real: 0.6295264363288879 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001546692845827203 | MIN_loss for real : 0.022265308746720423
+1 => MAX_ACCURACY for synth : 0.8232445897555659 | MAX_ACCURACY for real: 0.6295264363288879 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001546692845827203 | MIN_loss for real : 0.022265308746720423
+1 : Best HP (based on val_accuracy) : (0.6000000000000001, 0.2)
+cuda:0
+Model number : 7
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.7943546629300949 | MAX_ACCURACY for real: 0.5988857746124268 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0013153392859085922 | MIN_loss for real : 0.017291005275375665
+1 => MAX_ACCURACY for synth : 0.7955970730188385 | MAX_ACCURACY for real: 0.6030640602111816 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013153392859085922 | MIN_loss for real : 0.017291005275375665
+1 => MAX_ACCURACY for synth : 0.7966588821423011 | MAX_ACCURACY for real: 0.6030640602111816 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013153392859085922 | MIN_loss for real : 0.017291005275375665
+1 => MAX_ACCURACY for synth : 0.8022388292075354 | MAX_ACCURACY for real: 0.6030640602111816 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013153392859085922 | MIN_loss for real : 0.017291005275375665
+1 => MAX_ACCURACY for synth : 0.8032850692822668 | MAX_ACCURACY for real: 0.6030640602111816 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013153392859085922 | MIN_loss for real : 0.017291005275375665
+1 => MAX_ACCURACY for synth : 0.8040417250505995 | MAX_ACCURACY for real: 0.6030640602111816 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013153392859085922 | MIN_loss for real : 0.017291005275375665
+1 => MAX_ACCURACY for synth : 0.8170076288338782 | MAX_ACCURACY for real: 0.6030640602111816 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013153392859085922 | MIN_loss for real : 0.017291005275375665
+1 => MAX_ACCURACY for synth : 0.8170076288338782 | MAX_ACCURACY for real: 0.6030640602111816 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013153392859085922 | MIN_loss for real : 0.017291005275375665
+1 => MAX_ACCURACY for synth : 0.8170076288338782 | MAX_ACCURACY for real: 0.6030640602111816 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0013153392859085922 | MIN_loss for real : 0.017291005275375665
+1 : Best HP (based on val_accuracy) : (0.6000000000000001, 0.2)
+cuda:0
+Model number : 8
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.8496496964035497 | MAX_ACCURACY for real: 0.5863509774208069 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014582029382300124 | MIN_loss for real : 0.021818350284544537
+1 => MAX_ACCURACY for synth : 0.8527136851938346 | MAX_ACCURACY for real: 0.5863509774208069 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014582029382300124 | MIN_loss for real : 0.021818350284544537
+1 => MAX_ACCURACY for synth : 0.8544916705589288 | MAX_ACCURACY for real: 0.5863509774208069 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014582029382300124 | MIN_loss for real : 0.021818350284544537
+1 => MAX_ACCURACY for synth : 0.8560454616222949 | MAX_ACCURACY for real: 0.5863509774208069 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014582029382300124 | MIN_loss for real : 0.021818350284544537
+1 => MAX_ACCURACY for synth : 0.8586735170481083 | MAX_ACCURACY for real: 0.5863509774208069 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014582029382300124 | MIN_loss for real : 0.021818350284544537
+1 => MAX_ACCURACY for synth : 0.859722870932586 | MAX_ACCURACY for real: 0.5863509774208069 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014582029382300124 | MIN_loss for real : 0.021818350284544537
+1 => MAX_ACCURACY for synth : 0.859722870932586 | MAX_ACCURACY for real: 0.5863509774208069 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014582029382300124 | MIN_loss for real : 0.021818350284544537
+1 => MAX_ACCURACY for synth : 0.859722870932586 | MAX_ACCURACY for real: 0.5863509774208069 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014582029382300124 | MIN_loss for real : 0.021818350284544537
+1 => MAX_ACCURACY for synth : 0.859722870932586 | MAX_ACCURACY for real: 0.5863509774208069 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014582029382300124 | MIN_loss for real : 0.021818350284544537
+1 : Best HP (based on val_accuracy) : (0.4, 0.6000000000000001)
+cuda:0
+Model number : 9
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.8449135917795423 | MAX_ACCURACY for real: 0.6114206314086914 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0012134392867528768 | MIN_loss for real : 0.021555895924900235
+1 => MAX_ACCURACY for synth : 0.8482547096372411 | MAX_ACCURACY for real: 0.6142061352729797 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0012134392867528768 | MIN_loss for real : 0.021555895924900235
+1 => MAX_ACCURACY for synth : 0.8492947220924801 | MAX_ACCURACY for real: 0.6183843612670898 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0012134392867528768 | MIN_loss for real : 0.021555895924900235
+1 => MAX_ACCURACY for synth : 0.8584991437023198 | MAX_ACCURACY for real: 0.6183843612670898 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0012134392867528768 | MIN_loss for real : 0.021555895924900235
+1 => MAX_ACCURACY for synth : 0.8613545072396077 | MAX_ACCURACY for real: 0.6183843612670898 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0012134392867528768 | MIN_loss for real : 0.021555895924900235
+1 => MAX_ACCURACY for synth : 0.8613545072396077 | MAX_ACCURACY for real: 0.6183843612670898 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0012134392867528768 | MIN_loss for real : 0.021555895924900235
+1 => MAX_ACCURACY for synth : 0.8613545072396077 | MAX_ACCURACY for real: 0.6183843612670898 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0012134392867528768 | MIN_loss for real : 0.021555895924900235
+1 => MAX_ACCURACY for synth : 0.8613545072396077 | MAX_ACCURACY for real: 0.6183843612670898 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0012134392867528768 | MIN_loss for real : 0.021555895924900235
+1 => MAX_ACCURACY for synth : 0.8613545072396077 | MAX_ACCURACY for real: 0.6183843612670898 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0012134392867528768 | MIN_loss for real : 0.021555895924900235
+1 : Best HP (based on val_accuracy) : (0.4, 0.4)
+cuda:0
+Model number : 10
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.8346037677097929 | MAX_ACCURACY for real: 0.6169916391372681 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001491532945384299 | MIN_loss for real : 0.02619705226760057
+1 => MAX_ACCURACY for synth : 0.8360641444807723 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.001491532945384299 | MIN_loss for real : 0.02619705226760057
+1 => MAX_ACCURACY for synth : 0.8369391250194613 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.001491532945384299 | MIN_loss for real : 0.02619705226760057
+1 => MAX_ACCURACY for synth : 0.8473392495718511 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.001491532945384299 | MIN_loss for real : 0.02619705226760057
+1 => MAX_ACCURACY for synth : 0.84840417250506 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.001491532945384299 | MIN_loss for real : 0.02619705226760057
+1 => MAX_ACCURACY for synth : 0.8487871711038456 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.001491532945384299 | MIN_loss for real : 0.02619705226760057
+1 => MAX_ACCURACY for synth : 0.8487871711038456 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.001491532945384299 | MIN_loss for real : 0.02619705226760057
+1 => MAX_ACCURACY for synth : 0.8487871711038456 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.001491532945384299 | MIN_loss for real : 0.02619705226760057
+1 => MAX_ACCURACY for synth : 0.8487871711038456 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.001491532945384299 | MIN_loss for real : 0.02619705226760057
+1 : Best HP (based on val_accuracy) : (0.4, 0.6000000000000001)
+cuda:0
+Model number : 11
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.8117546317919975 | MAX_ACCURACY for real: 0.6253481507301331 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0014000810619847481 | MIN_loss for real : 0.0223438135428681
+1 => MAX_ACCURACY for synth : 0.8173750583839328 | MAX_ACCURACY for real: 0.6309192180633545 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0014000810619847481 | MIN_loss for real : 0.0223438135428681
+1 => MAX_ACCURACY for synth : 0.8181441693912502 | MAX_ACCURACY for real: 0.6337047219276428 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0014000810619847481 | MIN_loss for real : 0.0223438135428681
+1 => MAX_ACCURACY for synth : 0.8210057605480305 | MAX_ACCURACY for real: 0.6337047219276428 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0014000810619847481 | MIN_loss for real : 0.0223438135428681
+1 => MAX_ACCURACY for synth : 0.8261186361513312 | MAX_ACCURACY for real: 0.6337047219276428 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0014000810619847481 | MIN_loss for real : 0.0223438135428681
+1 => MAX_ACCURACY for synth : 0.8262587575899113 | MAX_ACCURACY for real: 0.6337047219276428 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0014000810619847481 | MIN_loss for real : 0.0223438135428681
+1 => MAX_ACCURACY for synth : 0.8319943951424568 | MAX_ACCURACY for real: 0.6337047219276428 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0014000810619847481 | MIN_loss for real : 0.0223438135428681
+1 => MAX_ACCURACY for synth : 0.8319943951424568 | MAX_ACCURACY for real: 0.6337047219276428 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0014000810619847481 | MIN_loss for real : 0.0223438135428681
+1 => MAX_ACCURACY for synth : 0.8319943951424568 | MAX_ACCURACY for real: 0.6337047219276428 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.0014000810619847481 | MIN_loss for real : 0.0223438135428681
+1 : Best HP (based on val_accuracy) : (0.6000000000000001, 0.2)
+cuda:0
+Model number : 12
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.8558773158959988 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.001523053316585339 | MIN_loss for real : 0.026870334380848494
+1 => MAX_ACCURACY for synth : 0.8592557994706523 | MAX_ACCURACY for real: 0.6183843612670898 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.001523053316585339 | MIN_loss for real : 0.026870334380848494
+1 => MAX_ACCURACY for synth : 0.860152576677565 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001523053316585339 | MIN_loss for real : 0.026870334380848494
+1 => MAX_ACCURACY for synth : 0.8669593647828118 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001523053316585339 | MIN_loss for real : 0.026870334380848494
+1 => MAX_ACCURACY for synth : 0.8700482640510665 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001523053316585339 | MIN_loss for real : 0.026870334380848494
+1 => MAX_ACCURACY for synth : 0.8705931807566558 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001523053316585339 | MIN_loss for real : 0.026870334380848494
+1 => MAX_ACCURACY for synth : 0.8705931807566558 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001523053316585339 | MIN_loss for real : 0.026870334380848494
+1 => MAX_ACCURACY for synth : 0.8705931807566558 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001523053316585339 | MIN_loss for real : 0.026870334380848494
+1 => MAX_ACCURACY for synth : 0.8705931807566558 | MAX_ACCURACY for real: 0.6197771430015564 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.6000000000000001) | MIN_LOSS for synth: 0.001523053316585339 | MIN_loss for real : 0.026870334380848494
+1 : Best HP (based on val_accuracy) : (0.4, 0.6000000000000001)
+cuda:0
+Model number : 13
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.8344823291296902 | MAX_ACCURACY for real: 0.5988857746124268 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0017850789664131071 | MIN_loss for real : 0.026809058813663578
+1 => MAX_ACCURACY for synth : 0.8365654678499144 | MAX_ACCURACY for real: 0.6016712784767151 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0017850789664131071 | MIN_loss for real : 0.026809058813663578
+1 => MAX_ACCURACY for synth : 0.837518293632259 | MAX_ACCURACY for real: 0.6016712784767151 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0017850789664131071 | MIN_loss for real : 0.026809058813663578
+1 => MAX_ACCURACY for synth : 0.8399159271368519 | MAX_ACCURACY for real: 0.6016712784767151 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0017850789664131071 | MIN_loss for real : 0.026809058813663578
+1 => MAX_ACCURACY for synth : 0.8417343920286471 | MAX_ACCURACY for real: 0.6016712784767151 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0017850789664131071 | MIN_loss for real : 0.026809058813663578
+1 => MAX_ACCURACY for synth : 0.8425035030359646 | MAX_ACCURACY for real: 0.6016712784767151 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0017850789664131071 | MIN_loss for real : 0.026809058813663578
+1 => MAX_ACCURACY for synth : 0.8466604390471743 | MAX_ACCURACY for real: 0.6016712784767151 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0017850789664131071 | MIN_loss for real : 0.026809058813663578
+1 => MAX_ACCURACY for synth : 0.8466604390471743 | MAX_ACCURACY for real: 0.6016712784767151 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0017850789664131071 | MIN_loss for real : 0.026809058813663578
+1 => MAX_ACCURACY for synth : 0.8466604390471743 | MAX_ACCURACY for real: 0.6016712784767151 | Best HP for synthetic : (0.6000000000000001, 0.2) | Best HP for real : (0.2, 0.4) | MIN_LOSS for synth: 0.0017850789664131071 | MIN_loss for real : 0.026809058813663578
+1 : Best HP (based on val_accuracy) : (0.6000000000000001, 0.2)
+cuda:0
+Model number : 14
+Let's use 2 GPUs!
+['conv1.weight', 'conv1.bias', 'conv2.weight', 'conv2.bias', 'conv3.weight', 'conv3.bias', 'fc1.weight', 'fc1.bias', 'fc2.weight', 'fc2.bias']
+1 => MAX_ACCURACY for synth : 0.8551019772691889 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.2, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8582811770200841 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.2, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8589537599252686 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.2, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8603767709792932 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.2) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8633535730966838 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.4) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8638237583683637 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8638237583683637 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8638237583683637 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 => MAX_ACCURACY for synth : 0.8638237583683637 | MAX_ACCURACY for real: 0.6155988574028015 | Best HP for synthetic : (0.4, 0.6000000000000001) | Best HP for real : (0.2, 0.2) | MIN_LOSS for synth: 0.0015750264900744706 | MIN_loss for real : 0.026904136689592538
+1 : Best HP (based on val_accuracy) : (0.4, 0.6000000000000001)
